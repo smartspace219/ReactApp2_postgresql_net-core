@@ -1,0 +1,11 @@
+1:
+nodejs install
+VS 2022 install
+extract zip
+open the file "BoardGamesContext.cs" and  reference the 3.png
+2:
+create db (name: tsdb)
+create table(name: ticks , reference the 2.png)
+import csv data into ticks table
+3:
+run the sample
